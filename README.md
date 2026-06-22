@@ -7,6 +7,7 @@ Customer churn analysis using Python for customer retention
 
 Customer retention is a critical challenge in the telecommunications industry, as acquiring new customers is often more expensive than retaining existing ones. This project analyzes customer churn data to identify the factors that contribute to customer attrition and provides actionable insights that can help improve retention strategies and business performance.
 
+
 ---
 
 ## Business Problem
